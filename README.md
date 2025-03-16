@@ -12,7 +12,7 @@ This project is an end-to-end data analysis solution to extract critical busines
 4. **Feature Engineering**: Add calculated metrics like `Total Amount`.  
 5. **Database Load**: Insert cleaned data into MySQL and PostgreSQL.  
 6. **SQL Analysis**: Write queries to analyze sales trends, best-sellers, and profit margins.  
-7. **Documentation**: Maintain clear notes and publish the project on GitHub.  
+
 
 ---
 
